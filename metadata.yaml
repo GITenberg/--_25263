@@ -1,0 +1,26 @@
+_repo: --_25263
+_version: 0.1.0
+alternative_title: Zhou Li
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhou, Gong
+    alias: 周公
+    deathdate: -1105
+    gutenberg_agent_id: '31195'
+    url: http://www.gutenberg.org/2009/agents/31195
+description: ''
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25263'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+title: 周禮
+url: http://www.gutenberg.org/ebooks/25263
